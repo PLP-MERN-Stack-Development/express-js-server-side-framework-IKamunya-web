@@ -10,7 +10,7 @@ This project implements a RESTful API for managing products using Express.js.
     ```
 ### Run the server:
 ```bash
-npm start
+node server.js
 ```
 
 ## Endpoints
